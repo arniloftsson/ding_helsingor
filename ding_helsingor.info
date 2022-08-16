@@ -1,0 +1,8 @@
+name = Ding Helsingor
+description = Helper module for Helsingør website.
+package = Ding!
+version = "7.x-0.26"
+core = 7.x
+
+stylesheets[all][] = css/ding_helsingor.css
+

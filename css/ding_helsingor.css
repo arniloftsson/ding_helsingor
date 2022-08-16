@@ -1,0 +1,4 @@
+.html #popup-message-window {
+  z-index: 400;
+  border: 10px solid #005570;
+}
